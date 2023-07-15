@@ -2,6 +2,6 @@
 
 git clone https://github.com/Blackhackerx/XTESLA--PRO
 
-cd XTESLA-PRO.py
+cd XTESLA-PRO
 
 python XTESLA-PRO.py
